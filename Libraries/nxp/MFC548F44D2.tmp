@@ -1,0 +1,23 @@
+#ifndef _control_h_
+#define _control_h_
+
+#include "headfile.h"
+
+
+
+void PD_control();
+void servo_control();
+void servo_text();
+void motor_text();
+void bianma_text();
+void adc_text();
+
+
+
+
+
+
+
+
+
+#endif
